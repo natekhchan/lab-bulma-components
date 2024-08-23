@@ -1,0 +1,34 @@
+/* src/components/SignupForm.css */
+
+.signup-form {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 2rem;
+    border: 1px solid #dbdbdb;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .signup-form-title {
+   margin-left: 50px;
+   font-size: larger;
+ } 
+  
+  .control {
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+  
+  .button.is-primary {
+    background-color: #54adf0;
+    border-color: transparent;
+    margin-left: 50px;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 4px;
+  }
+
+  .navbar-brand {
+    font-weight: bold;
+  }

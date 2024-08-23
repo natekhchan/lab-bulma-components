@@ -1,0 +1,26 @@
+/* src/components/FormField.css */
+
+.field {
+    margin-bottom: 1.5rem;
+  }
+  
+  .label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    margin-left: 50px;
+    margin-top: 25px;
+  }
+  
+  .control {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input {
+    width: 500px;
+    padding: 0.5rem;
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    margin-left: 50px;
+    font-size: 1rem;
+  }

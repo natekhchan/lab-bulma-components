@@ -1,0 +1,16 @@
+/* src/components/CoolButton.css */
+  .button {
+    border-radius: 4px;
+    padding: 8px 16px;
+    width: 150px;
+    height: 100px;
+   }
+  
+  .is-success {
+    background-color: #32d1b1;
+    color: white !important;
+  }
+
+  .is-danger {
+    color: white !important;
+  }

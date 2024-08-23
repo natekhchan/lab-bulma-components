@@ -1,0 +1,69 @@
+svg {
+   width: 150px;
+   height: 80px;
+}
+
+nav {
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 130px;
+    padding-left: 20px;
+    display: flex; 
+    align-items: center;
+    height:65px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-menu {
+    margin-left: 30px; /* Add space between SVG and "Home" text */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+   
+.navbar {
+    display: flex;
+    align-items: center;    
+    background-color: #f5f5f5;       
+}
+   
+.navbar-end {
+    display: flex;
+    align-items: center;
+    margin-left: 1300px;
+}
+
+.button.log-in {
+    background-color: #54adf0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button.log-in:hover {
+    background-color: #4791cc;
+  }
+  
+  .button.sign-up {
+    background-color: #32d1b1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10px;
+  }
+  
+  .button.sign-up:hover {
+    background-color: #28b89a;
+  }
